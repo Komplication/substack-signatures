@@ -28,7 +28,9 @@ Name: Michael J. Miller
 Email: michael.miller.ee.com
 
 Fingerprint:
+```
 0094 F7F4 B8A9 7859 B001  6035 D37A 8544 EC1E 765B
+```
 
 ## Verification Instructions
 
