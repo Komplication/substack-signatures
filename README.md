@@ -43,7 +43,9 @@ gpg --import michael_j_miller_pubkey.asc
 2. Verify an article signature
 
 Command:
+```
 gpg --verify YYYY-MM-DD-title.md.asc
+```
 
 Expected output:
 Good signature from "Michael <michael.miller.ee@gmail.com>"
