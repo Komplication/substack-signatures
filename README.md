@@ -8,14 +8,14 @@ Articles are never edited in place. Corrections are issued as new signed artifac
 
 
 ## Repository Structure
-
+```
 substack-signatures/
   README.md
   pubkey/
     michael_pubkey.asc
   articles/
     YYYY-MM-DD-title.md.asc
-
+```
 
 ## Public Key
 
