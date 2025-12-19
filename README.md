@@ -12,7 +12,7 @@ Articles are never edited in place. Corrections are issued as new signed artifac
 substack-signatures/
   README.md
   pubkey/
-    michael_pubkey.asc
+    michael_j_miller_pubkey.asc
   articles/
     YYYY-MM-DD-title.md.asc
 ```
@@ -20,8 +20,7 @@ substack-signatures/
 ## Public Key
 
 The public key used to sign all articles is located at:
-
-pubkey/michael_pubkey.asc
+`pubkey/michael_j_miller_pubkey.asc`
 
 Key identity:
 Name: Michael J. Miller
